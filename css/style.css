@@ -405,10 +405,10 @@ h6 {
 .main-nav .drop-down ul a {
   padding: 10px 20px;
   font-size: 14px;
-  font-weight: 500;
+  font-weight: 600;
   text-transform: none;
   /*color: #065e77;*/
-  color: brown;
+  color: #4b0010;
 }
 
 .main-nav .drop-down ul a:hover,
@@ -524,7 +524,7 @@ h6 {
 .mobile-nav-toggle i {
   margin: 18px 18px 0 0;
   /*color: #065e77;*/
-  color: brown;
+  color: #4b0010;
 }
 
 .mobile-nav-overly {
@@ -593,7 +593,7 @@ h6 {
 
 }
 .halfp{
-  color: grey;
+  color: #4b0010;
 }
 
 /* About Us Section
@@ -957,7 +957,7 @@ h6 {
       margin-top: 120px;
     }*/
     .swiper-slide {
-      background-size: 80%;
+      background-size: 85%;
       background-position: center;      
     }
     .limo-slide{
@@ -965,11 +965,11 @@ h6 {
       background-size: 90%;
     }
     .gallery-top {
-      height: 80%;
+      height: 85%;
       width: 100%;
     }
     .gallery-thumbs {
-      height: 20%;
+      height: 15%;
       box-sizing: border-box;
       padding: 10px 0;
     }
