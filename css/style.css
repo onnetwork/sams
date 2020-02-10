@@ -958,7 +958,7 @@ h6 {
     }*/
     .swiper-slide {
       background-size: 80%;
-      background-position: center;
+      background-position: center;      
     }
     .limo-slide{
       /*background-repeat: no-repeat;*/
@@ -1560,7 +1560,7 @@ h6 {
 @media (max-width: 767px) {
   #intro {
     height: auto;
-    padding: 60px 0 20px 0;
+    padding: 80px 0 20px 0;
   }
 
   #intro .container {
@@ -1623,4 +1623,12 @@ h6 {
   letter-spacing: 1px;
   padding: 5px 16px;
 }
+.design_inner .design_left_text {
+  margin-left: 95px;
+  max-width: 380px; }
+  .swiper-slide {
+      background-size: 100%;
+      background-position: center;
+      background-repeat: no-repeat;
+    }
 }
