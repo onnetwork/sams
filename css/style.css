@@ -1573,6 +1573,18 @@ h6 {
 .gallery-thumbs {
       display: none;
     }
+.swiper-slide {
+      background-size: 100%;
+      background-position: center;      
+    }
+    .limo-slide{
+      /*background-repeat: no-repeat;*/
+      background-size: 100%;
+    }
+    .gallery-top {
+      height: 100%;
+      width: 100%;
+    }
 }
 @media (min-width: 560px) {
 #header {
