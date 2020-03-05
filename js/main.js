@@ -6,7 +6,7 @@
     --------------------*/
     $(window).on('load', function () {
         $(".loader").fadeOut();
-        $("#preloder").delay(5).fadeOut("slow");
+        $("#preloder").delay(2).fadeOut("slow");
     });
     
   // Back to top button
