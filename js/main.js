@@ -4,10 +4,10 @@
   /*------------------
         Preloader
     --------------------*/
-    $(window).on('load', function () {
-        $(".loader").fadeOut();
-        $("#preloder").fadeOut("slow");
-    });
+    // $(window).on('load', function () {
+    //     $(".loader").fadeOut();
+    //     $("#preloder").fadeOut("slow");
+    // });
     
   // Back to top button
   $(window).scroll(function() {
